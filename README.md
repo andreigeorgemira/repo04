@@ -10,4 +10,4 @@ Yo he creado el repo en remoto y le he hecho un clone, asi me ahorraba tener que
 ![alt text](img/image2.png)
 
 ## 4.4
-Al añadir estas lineas ya sera el fichero diferente al de antes
+Al añadir estas lineas ya sera el fichero diferente al de antes. Por ello no hago aqui todo
